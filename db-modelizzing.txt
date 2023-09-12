@@ -1,0 +1,4 @@
+    id -                        intero       - MEDIUMINT         -  PRIMARY_KEY AUTO_INCREMENT
+    marca                       stringa      - VARCHAR(30)       -  NOTNULL
+    modello                     stringa      - VARCHAR(30)       -  NOTNULL
+    
